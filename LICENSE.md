@@ -1,4 +1,4 @@
-# 
+# Open Source Semantic Code Search themes. Featuring real-time-inference and edge-computing — optimized for maximum performance and efficiency.
 
 
 
